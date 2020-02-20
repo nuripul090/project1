@@ -1,2 +1,4 @@
-# project1
-how to hack termuk
+pkg install upgrade
+pkg install update
+pkg install git
+Dll
